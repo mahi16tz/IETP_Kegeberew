@@ -1,0 +1,39 @@
+* {
+  font-family: "poppins", "sans-sherif";
+}
+.whole-home {
+  margin-top: 100px;
+}
+h3,
+h5 {
+  position: relative;
+  text-indent: 30px;
+  display: inline-block;
+}
+h5 {
+  margin-left: 500px;
+}
+.cards {
+  display: flex;
+  margin-bottom: 20px;
+}
+.home-card {
+  width: 200px;
+  height: 210px;
+  background-color: #a6821d;
+  border-radius: 20px;
+}
+.home-slider {
+  width: 200px;
+  height: 210px;
+  margin: 0 0 5px 30px;
+}
+.home-card img {
+  width: 200px;
+  height: 150px;
+  border-radius: 20px;
+}
+p {
+  position: relative;
+  margin: 0 50px 0 78px;
+}

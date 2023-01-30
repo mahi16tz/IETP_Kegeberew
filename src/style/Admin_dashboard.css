@@ -1,0 +1,17 @@
+.container-n {
+  margin: 10px 20px;
+}
+.container-n h1 {
+  text-align: center;
+}
+.noti {
+  background-color: rgb(100, 120, 120);
+  padding: 10px;
+  margin: 10px;
+}
+.container-n .back {
+  border: 1px solid white;
+  background-color: white;
+  font-size: 20px;
+  padding-left: 40px;
+}

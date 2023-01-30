@@ -1,0 +1,27 @@
+.message {
+  font-family: "Poppins", sans-serif;
+  width: 500px;
+  height: 250px;
+  background-color: #d9d9d9;
+  border: 1px;
+  border-radius: 50px;
+  margin-top: 100px;
+  margin-left: 300px;
+  align-content: center;
+  padding: 30px 25px 50px 30px;
+}
+.message h2 {
+  padding: 50px 0 0 50px;
+  font-weight: bolder;
+}
+@media (max-width: 670px) {
+  .message {
+    margin-left: 40px;
+    width: 400px;
+    padding: 20 30px;
+  }
+  .message h2 {
+    padding: 20px;
+    font-weight: bold;
+  }
+}
